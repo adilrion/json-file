@@ -1,0 +1,762 @@
+[
+    {
+        "name": "Md Rafiul Islam",
+        "email": "rafiul587@gmail.com",
+        "number": "01644562164",
+        "sector": "App Development",
+        "github": "https://github.com/rafiul587",
+        "status": "0"
+    },
+    {
+        "name": "Angkan Mallik ",
+        "email": "ankanmallik0@gmail.com",
+        "number": "01402054881",
+        "sector": "App Development",
+        "github": "cse80angkan",
+        "status": "1"
+    },
+    {
+        "name": "MD. ABDULLAH",
+        "email": "aicoder012@gmail.com",
+        "number": "01673993036",
+        "sector": "App Development",
+        "github": "https://github.com/CoderBDK",
+        "status": "1"
+    },
+    {
+        "name": "Sarkar Sifatullah Haque Sajeeb",
+        "email": "sifatulla.haque@gmail.com",
+        "number": "01850676787",
+        "sector": "App Development",
+        "github": "https://github.com/sifatullah-haque",
+        "status": "1"
+    },
+    {
+        "name": "MD Hasibul islam ",
+        "email": "mohammadhasibul1256@gmail.com",
+        "number": "01851560705",
+        "sector": "App Development",
+        "github": "MD Hasibul islam ",
+        "status": "1"
+    },
+    {
+        "name": "Shohidur Rahman Sharif ",
+        "email": "Sharifdiu57@gmail.com",
+        "number": "01303390274",
+        "sector": "App Development",
+        "github": "https://github.com/sharif474",
+        "status": "1"
+    },
+    {
+        "name": "Md Miskat Ahmmed",
+        "email": "memiskat362@gmail.com",
+        "number": "01758044579",
+        "sector": "App Development",
+        "github": "N/A",
+        "status": "1"
+    },
+    {
+        "name": "Tasheed Tanjim Promit",
+        "email": "promitmondol2002@gmail.com",
+        "number": "01779638947",
+        "sector": "App Development",
+        "github": "N/A",
+        "status": "1"
+    },
+    {
+        "name": "Md Hasan Al Mahmud",
+        "email": "mehedibd709@gmail.com",
+        "number": "01786239194",
+        "sector": "Machine Learning",
+        "github": "No",
+        "status": "1"
+    },
+    {
+        "name": "Md. Tanimul Haque",
+        "email": "tanimulhaque390@gmail.com",
+        "number": "01709696652",
+        "sector": "Machine Learning",
+        "github": "I love Machine Learning ",
+        "status": "1"
+    },
+    {
+        "name": "Rajkumar Sarker",
+        "email": "rajkumarsarker1101@gmail.com",
+        "number": "01997391331",
+        "sector": "Machine Learning",
+        "github": "https://github.com/raj1115",
+        "status": "1"
+    },
+    {
+        "name": "Md. Asikur Rahman Khan ",
+        "email": "ashik.est04@gmail.com",
+        "number": "01758792678",
+        "sector": "Machine Learning",
+        "github": "N\\A",
+        "status": "1"
+    },
+    {
+        "name": "Ashikur Rahman ",
+        "email": "ashikurrahmanpritom@gmail.com",
+        "number": "01326175917",
+        "sector": "Machine Learning",
+        "github": "https://github.com/ASHIK-since2002",
+        "status": "1"
+    },
+    {
+        "name": "Mirza Shakil Hasan Rabby",
+        "email": "rabbymirzashakilhasan@gmail.com",
+        "number": "01941215269",
+        "sector": "Machine Learning",
+        "github": "https://github.com/rabbymirza",
+        "status": "1"
+    },
+    {
+        "name": "Morsalin hayat ovi",
+        "email": "mahovimorsalin@gmail.com",
+        "number": "01844765934",
+        "sector": "Machine Learning",
+        "github": "No",
+        "status": "1"
+    },
+    {
+        "name": "Md. Alam Hossain",
+        "email": "alam.rpi.bd@gmail.com",
+        "number": "01790190009",
+        "sector": "Programming Contest",
+        "github": "https://github.com/alamrpi",
+        "status": "1"
+    },
+    {
+        "name": "Md Mursalatul Islam Pallob ",
+        "email": "mursalatul.pallob@gmail.com",
+        "number": "01611920058",
+        "sector": "Programming Contest",
+        "github": "https://github.com/mursalatul",
+        "status": "1"
+    },
+    {
+        "name": "Md. Ifram Dewan ",
+        "email": "iframdewan@gmail.com",
+        "number": "01832083602",
+        "sector": "Programming Contest",
+        "github": "https://github.com/Ifram-Dewan",
+        "status": "1"
+    },
+    {
+        "name": "Soumik Hasan ",
+        "email": "soumik.hasan.smk@gmail.com",
+        "number": "01716101715",
+        "sector": "Programming Contest",
+        "github": "https://www.linkedin.com/in/soumik-hasan-smk",
+        "status": "1"
+    },
+    {
+        "name": "Kazi Tomal Islam",
+        "email": "kazi.tomal.official@gmail.com",
+        "number": "01896202905",
+        "sector": "Programming Contest",
+        "github": "https://github.com/piyalt",
+        "status": "1"
+    },
+    {
+        "name": "Adil Mahmoud Rion",
+        "email": "adilmahmoudrion@gmail.com",
+        "number": "01833449963",
+        "sector": "Programming Contest",
+        "github": "https://github.com/adilrion",
+        "status": "1"
+    },
+    {
+        "name": "Md Rafiul Islam",
+        "email": "rafiul587@gmail.com",
+        "number": "01644562164",
+        "sector": "Programming Contest",
+        "github": "https://github.com/rafiul587",
+        "status": "1"
+    },
+    {
+        "name": "Abu Saim Hossen Hridoy ",
+        "email": "saimhosenhridoy@gmail.com",
+        "number": "01306867884",
+        "sector": "Programming Contest",
+        "github": "https://github.com/SaimEnigma",
+        "status": "1"
+    },
+    {
+        "name": "TOHIDUL ISLAM RUPOK ",
+        "email": "tohidrupok@gmail.com",
+        "number": "01622151055",
+        "sector": "Programming Contest",
+        "github": "https://github.com/tohidrupok",
+        "status": "1"
+    },
+    {
+        "name": "Md Siamul Islam Soaib ",
+        "email": "mdsiamulislamsoaib@gmail.com",
+        "number": "01682684452",
+        "sector": "Programming Contest",
+        "github": "https://github.com/mdsiamulislam",
+        "status": "1"
+    },
+    {
+        "name": "Md. Momrul Hasan",
+        "email": "momrulhasan@gmail.com",
+        "number": "+8801635121152",
+        "sector": "Programming Contest",
+        "github": "https://github.com/momrulhasan",
+        "status": "1"
+    },
+    {
+        "name": "Samin Mahmud ",
+        "email": "samin.mahmud18@gmail.com",
+        "number": "01641950947",
+        "sector": "Programming Contest",
+        "github": "saminmahmud",
+        "status": "1"
+    },
+    {
+        "name": "Bishojet Chandra Nath",
+        "email": "bishojetchandranath@gmail.com",
+        "number": "01715832630",
+        "sector": "Programming Contest",
+        "github": "https://github.com/bishojet",
+        "status": "1"
+    },
+    {
+        "name": "Md Asraful Molla ",
+        "email": "armdasraful@gmail.com",
+        "number": "01889262042",
+        "sector": "Programming Contest",
+        "github": "https://github.com/asrafulmolla",
+        "status": "1"
+    },
+    {
+        "name": "Arnob Das Shacha ",
+        "email": "shacha15-5277@diu.edu.bd",
+        "number": "01643322115",
+        "sector": "Programming Contest",
+        "github": "https://github.com/arnob444",
+        "status": "1"
+    },
+    {
+        "name": "Ehtesam Zunnuryn ",
+        "email": "ehtesamzunnuryn@gmail.com",
+        "number": "01827080768",
+        "sector": "Programming Contest",
+        "github": "https://github.com/ehtesamzunnuryn",
+        "status": "1"
+    },
+    {
+        "name": "Samin Mahmud",
+        "email": "samin.mahmud18@gmial.com",
+        "number": "01641950947",
+        "sector": "Programming Contest",
+        "github": "https://github.com/saminmahmud",
+        "status": "1"
+    },
+    {
+        "name": "Md Makshudul Haque",
+        "email": "shihab90.it@gmail.com",
+        "number": "01796382625",
+        "sector": "Programming Contest",
+        "github": "https://codeforces.com/profile/shihab_uddin90",
+        "status": "1"
+    },
+    {
+        "name": "Md. Abir Chowdhury",
+        "email": "abir.chowdhury.sami1@gmail.com",
+        "number": "01770280341",
+        "sector": "Programming Contest",
+        "github": "https://github.com/YouKnowMe2",
+        "status": "1"
+    },
+    {
+        "name": "Maliha Nusrat Tahira",
+        "email": "tahiramalihanusrat@gmail.com",
+        "number": "01926745149",
+        "sector": "Programming Contest",
+        "github": " tahiramaliha",
+        "status": "1"
+    },
+    {
+        "name": "Farnaz Orpita",
+        "email": "farnazarpita0@gmail.com",
+        "number": "01853373612",
+        "sector": "Programming Contest",
+        "github": "https://github.com/settings/profile",
+        "status": "1"
+    },
+    {
+        "name": "Md Shohel Rana",
+        "email": "mdshohelrana01884537397@gmail.com",
+        "number": "01852339330",
+        "sector": "Programming Contest",
+        "github": "chocoboy420",
+        "status": "1"
+    },
+    {
+        "name": "Md. Rakib Uddin",
+        "email": "uddinrakib960@gmail.com",
+        "number": "01866372759",
+        "sector": "Programming Contest",
+        "github": "https://github.com/Rakib1322",
+        "status": "1"
+    },
+    {
+        "name": "Hasan Al Mahmud",
+        "email": "hamahmud5@gmail.com",
+        "number": "+8801840997001",
+        "sector": "Programming Contest",
+        "github": "https://github.com/Hasanmahmud5",
+        "status": "1"
+    },
+    {
+        "name": "Maysha Tabassum ",
+        "email": "mayshatabassum29@gmail.com",
+        "number": "01975545357",
+        "sector": "Programming Contest",
+        "github": "No.",
+        "status": "1"
+    },
+    {
+        "name": "Md Muhtasim Fuad",
+        "email": "mmfuad177@gmail.com",
+        "number": "01972752393",
+        "sector": "Programming Contest",
+        "github": "https://github.com/skyscraper7",
+        "status": "1"
+    },
+    {
+        "name": "Omar Faruq",
+        "email": "Omarfaruq2004bd@gmail.com",
+        "number": "01326823988",
+        "sector": "Programming Contest",
+        "github": "Yes",
+        "status": "1"
+    },
+    {
+        "name": "Lingkon",
+        "email": "lingkonbiswas777@gmail.com",
+        "number": "01774511054",
+        "sector": "Programming Contest",
+        "github": "Lingkon ",
+        "status": "1"
+    },
+    {
+        "name": "Md Saifullah Islam Sawon ",
+        "email": "sawon2003@gmail.com",
+        "number": "01977190060",
+        "sector": "Programming Contest",
+        "github": "I don't understand ",
+        "status": "1"
+    },
+    {
+        "name": "Al Fathiha",
+        "email": "alfathiha639@gmail.com",
+        "number": "01600005103",
+        "sector": "Programming Contest",
+        "github": "no",
+        "status": "1"
+    },
+    {
+        "name": "Jalis Mahamud ",
+        "email": "jalismahamud31@gmail.com",
+        "number": "01785927491",
+        "sector": "Programming Contest",
+        "github": "No",
+        "status": "1"
+    },
+    {
+        "name": "Rasheduzzaman ",
+        "email": "rasheduzzamanrakib3@gmail.com",
+        "number": "01568670490",
+        "sector": "Programming Contest",
+        "github": "https://github.com/rasheduzzaman-r",
+        "status": "1"
+    },
+    {
+        "name": "MD PAYEL KHAN",
+        "email": "mhpayel9@gmail.com",
+        "number": "01935187469",
+        "sector": "Programming Contest",
+        "github": "kdnejg",
+        "status": "1"
+    },
+    {
+        "name": "Md Sajjad Islam Swadhin ",
+        "email": "sajjadswadhin@gmail.com",
+        "number": "01609751252",
+        "sector": "Programming Contest",
+        "github": "Mone ni",
+        "status": "1"
+    },
+    {
+        "name": "Md Sheikh Farid ",
+        "email": "sheikhforidahmed490@gmail.com",
+        "number": "01907286535",
+        "sector": "Programming Contest",
+        "github": "Yes",
+        "status": "1"
+    },
+    {
+        "name": "Rabby Hasan",
+        "email": "rabbyhasanrzs518@gmail.com",
+        "number": "01722544242",
+        "sector": "Programming Contest",
+        "github": "Yes",
+        "status": "1"
+    },
+    {
+        "name": "Md. Siam",
+        "email": "mdsiamullah422@mail.com",
+        "number": "01793661154",
+        "sector": "Programming Contest",
+        "github": "Yes",
+        "status": "1"
+    },
+    {
+        "name": "Md. Emon Rahman",
+        "email": "emon23011@gmail.com",
+        "number": "01607648819",
+        "sector": "Programming Contest",
+        "github": "Yes",
+        "status": "1"
+    },
+    {
+        "name": "Suria Islam Anu",
+        "email": "suriaislamanu@gmail.com",
+        "number": "01310294681",
+        "sector": "Programming Contest",
+        "github": "suriaislamanu",
+        "status": "1"
+    },
+    {
+        "name": "RIFATUL ISLAM",
+        "email": "rifatulislam447@gmail.com",
+        "number": "+8801581775439",
+        "sector": "Programming Contest",
+        "github": "Null",
+        "status": "1"
+    },
+    {
+        "name": "Kazi Tomal Islam",
+        "email": "kazi.tomal.official@gmail.com",
+        "number": "01896202905",
+        "sector": "Programming Contest",
+        "github": "https://github.com/piyalt",
+        "status": "1"
+    },
+    {
+        "name": "Eshat Rahman",
+        "email": "eshatrahman137173@gmail.com",
+        "number": "01646448288",
+        "sector": "Programming Contest",
+        "github": "https://github.com/eshat69",
+        "status": "1"
+    },
+    {
+        "name": "Fatama Tuj Johora ",
+        "email": "johoraifte@gmail.com",
+        "number": "01715260660",
+        "sector": "Programming Contest",
+        "github": "https://github.com/johora-ifte",
+        "status": "1"
+    },
+    {
+        "name": "PARTHA HALDER",
+        "email": "parthahalder39018@gmail.com",
+        "number": "+8801518987136 / +8801319708154 (WhatsApp))",
+        "sector": "Programming Contest",
+        "github": "None",
+        "status": "1"
+    },
+    {
+        "name": "MD. SHAMIM AHMED ",
+        "email": "shamim.scp9@gmail.com",
+        "number": "01631858651",
+        "sector": "Programming Contest",
+        "github": "I don't have",
+        "status": "1"
+    },
+    {
+        "name": "Rafia Akhter Romana",
+        "email": "rafia.ar2020@gmail.com",
+        "number": "01316048246",
+        "sector": "Programming Contest",
+        "github": "https://github.com/account",
+        "status": "1"
+    },
+    {
+        "name": "Md. Rakaatul Islam Ratul",
+        "email": "mdrakaatulislamratul@gmail.com",
+        "number": "01518632968",
+        "sector": "Programming Contest",
+        "github": "N/A",
+        "status": "1"
+    },
+    {
+        "name": "Omar Bin Faruk ",
+        "email": "omarfaruk78879@gmail.com",
+        "number": "01918117075",
+        "sector": "Programming Contest",
+        "github": "https://github.com/omarbin75",
+        "status": "1"
+    },
+    {
+        "name": "Md Raisul Islam Rasel",
+        "email": "ranamdrasel408@gamil.com",
+        "number": "01887310004",
+        "sector": "Programming Contest",
+        "github": "Raisul3",
+        "status": "1"
+    },
+    {
+        "name": "Md.Navid Iqbal",
+        "email": "navidiqbal2000@gmail.com",
+        "number": "01904538259",
+        "sector": "Programming Contest",
+        "github": "No",
+        "status": "1"
+    },
+    {
+        "name": "MD MOKSHIDUL MOMIN",
+        "email": "momin.m.m.08@gmail.com",
+        "number": "01566041723",
+        "sector": "Programming Contest",
+        "github": "momin.m.m.08@gmail.com",
+        "status": "1"
+    },
+    {
+        "name": "Md.Mohotazim Hossen Bosunia ",
+        "email": "mohotazimbosunia@gmail.com",
+        "number": "01774149566",
+        "sector": "Programming Contest",
+        "github": "No",
+        "status": "1"
+    },
+    {
+        "name": "Md.Mohotazim Hossen Bosunia ",
+        "email": "mohotazimbosunia@gmail.com",
+        "number": "01774149566",
+        "sector": "Programming Contest",
+        "github": "No",
+        "status": "1"
+    },
+    {
+        "name": "Arfatul Aziz Maruf",
+        "email": "arfatmaruf55@gmail.com",
+        "number": "01522105498",
+        "sector": "Programming Contest",
+        "github": "arfatmaruf",
+        "status": "1"
+    },
+    {
+        "name": "Swadhin Chakraborty",
+        "email": "swadhincb@gmail.com",
+        "number": "+8801628393509",
+        "sector": "Programming Contest",
+        "github": "No",
+        "status": "1"
+    },
+    {
+        "name": "Raihan Alam Seaim ",
+        "email": "raihanalamseaim1811@gmail.com",
+        "number": "01939030567",
+        "sector": "Programming Contest",
+        "github": "No",
+        "status": "1"
+    },
+    {
+        "name": "Muhammad Nazmus Sakib ",
+        "email": "nazmus2202@gmail.com",
+        "number": "01636763365",
+        "sector": "Programming Contest",
+        "github": "@nazmus-sakib777",
+        "status": "1"
+    },
+    {
+        "name": "Al Tuhim Md.Shaad",
+        "email": "shaad5843@gmail.com",
+        "number": "01401732215",
+        "sector": "Programming Contest",
+        "github": "No",
+        "status": "1"
+    },
+    {
+        "name": "Al Tuhim Md. Shaad",
+        "email": "shaad5843@gmail.com",
+        "number": "01401732215",
+        "sector": "Programming Contest",
+        "github": "No",
+        "status": "1"
+    },
+    {
+        "name": "Ashiqur Rahman",
+        "email": "imashiqe@gmail.com",
+        "number": "01710233118",
+        "sector": "Web Development",
+        "github": "https://github.com/imashiqe",
+        "status": "1"
+    },
+    {
+        "name": "Md. Shihab Hassan Naim ",
+        "email": "hassanshihab231@gmail.com",
+        "number": "01632918596",
+        "sector": "Web Development",
+        "github": "https://github.com/shihabhassannaim",
+        "status": "1"
+    },
+    {
+        "name": "Fatema Khanom",
+        "email": "fatemaurmi2019@gmail.com",
+        "number": "01751549818",
+        "sector": "Web Development",
+        "github": "https://github.com/Fatema-Khanom",
+        "status": "1"
+    },
+    {
+        "name": "Rajin Saleh Prince",
+        "email": "rajinp752@gmail.com",
+        "number": "01519600693",
+        "sector": "Web Development",
+        "github": "https://github.com/RajinSalehPrince   ",
+        "status": "1"
+    },
+    {
+        "name": "Md Anis Ahmed ",
+        "email": "mdanisahmed7921@gmail.com",
+        "number": "01988087533",
+        "sector": "Web Development",
+        "github": "https://github.com/settings/profile",
+        "status": "1"
+    },
+    {
+        "name": "Md Anis Ahmed ",
+        "email": "mdanisahmed7921@gmail.com",
+        "number": "01988087533",
+        "sector": "Web Development",
+        "github": "https://github.com/Anis198230",
+        "status": "1"
+    },
+    {
+        "name": "Maskat",
+        "email": "meshkatmashabi@gmail.com ",
+        "number": "01617380534",
+        "sector": "Web Development",
+        "github": "Maskat ",
+        "status": "1"
+    },
+    {
+        "name": "Tarikul Islam ",
+        "email": "mrtarikulislamtarek@gmail.com",
+        "number": "01744231046",
+        "sector": "Web Development",
+        "github": "https://github.com/T4R1KUL",
+        "status": "1"
+    },
+    {
+        "name": "Simanto Hasan",
+        "email": "simanto848@gmail.com",
+        "number": "01601217735",
+        "sector": "Web Development",
+        "github": "https://github.com/simanto848",
+        "status": "1"
+    },
+    {
+        "name": "Mahbubul Hasan",
+        "email": "mahbubulhasan604@gmail.com",
+        "number": "01407128177",
+        "sector": "Web Development",
+        "github": "https://github.com/mahbubulalways",
+        "status": "1"
+    },
+    {
+        "name": "Liman Halder",
+        "email": "limonheref@gmail.com",
+        "number": "01756183813",
+        "sector": "Web Development",
+        "github": "https://github.com/LimanHalder",
+        "status": "1"
+    },
+    {
+        "name": "Md Jahid ",
+        "email": "engmdjahid78@gmail.com ",
+        "number": "01778154232",
+        "sector": "Web Development",
+        "github": "MohammadJahid78",
+        "status": "1"
+    },
+    {
+        "name": "Ashik ",
+        "email": "ashikakanda51@gmail.com ",
+        "number": "01305438351",
+        "sector": "Web Development",
+        "github": "https://github.com/438351/AKANDA",
+        "status": "1"
+    },
+    {
+        "name": "NUR HAMIM SAHARAZ",
+        "email": "saharazkhan1462@gmail.com",
+        "number": "01961867304",
+        "sector": "Web Development",
+        "github": "NURHAMIMSAHARAZ",
+        "status": "1"
+    },
+    {
+        "name": "Israt jahan ",
+        "email": "Isratjahanananna123@gmail.com",
+        "number": "01301369116",
+        "sector": "Web Development",
+        "github": "https://github.com/isratjahanananna",
+        "status": "1"
+    },
+    {
+        "name": "Md.Omor Faruk",
+        "email": "faruks3114@gmail.com",
+        "number": "01891158963",
+        "sector": "Web Development",
+        "github": "Website",
+        "status": "1"
+    },
+    {
+        "name": "Sanjana Tajbin Sinha ",
+        "email": "unacadmya@gmail.com",
+        "number": "01301314890",
+        "sector": "Web Development",
+        "github": "https://github.com/32-Sinha",
+        "status": "1"
+    },
+    {
+        "name": "Ahmad Ullah ",
+        "email": "ahmadadnan4006@gmail.com",
+        "number": "01755216387",
+        "sector": "Web Development",
+        "github": "I don’t have GitHub Profile ",
+        "status": "1"
+    },
+    {
+        "name": "MD AL RAKEB RASEL BOSHUNIA",
+        "email": "rakibbosunia45@gmail.com",
+        "number": "01749126396",
+        "sector": "Web Development",
+        "github": "https://github.com/Rakibboshunia",
+        "status": "1"
+    },
+    {
+        "name": "Katha saha",
+        "email": "kathasaha922@gmail.com",
+        "number": "01612037628",
+        "sector": "Web Development",
+        "github": "https://github.com/katha922",
+        "status": "1"
+    },
+    {
+        "name": "Md Miskat Ahmmed",
+        "email": "memiskat362@gmail.com",
+        "number": "01758044579",
+        "sector": "Web Development",
+        "github": "N/A",
+        "status": "1"
+    }
+]
